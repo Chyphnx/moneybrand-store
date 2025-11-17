@@ -1,0 +1,50 @@
+﻿[
+  {
+    "sku": "MB-TS-BLK-GLD-01",
+    "title": "Money Brand Tee – Black / Gold Logo",
+    "category": "Tees",
+    "price": 60,
+    "color": "Black",
+    "finish": "Gold Print",
+    "madeIn": "USA",
+    "images": ["tee-black-gold-front.jpg"],
+    "tags": ["t-shirt", "gold", "streetwear", "made in usa"],
+    "descriptionShort": "Mid-weight black tee with gold Money Brand logo."
+  },
+  {
+    "sku": "MB-HD-BLK-PGLD-05",
+    "title": "Money Brand Premium Hoodie – Black / Gold Stitch",
+    "category": "Hoodies",
+    "price": 150,
+    "color": "Black",
+    "finish": "Gold Stitch",
+    "madeIn": "USA",
+    "images": ["hoodie-black-gold-front.jpg"],
+    "tags": ["hoodie", "gold", "premium", "made in usa"],
+    "descriptionShort": "Heavyweight black hoodie with gold stitched Money Brand logo."
+  },
+  {
+    "sku": "MB-CR-MNY-STD-01",
+    "title": "Currency Strand Crewneck – Benjamin Print",
+    "category": "Crewnecks",
+    "price": 150,
+    "color": "Money Print",
+    "finish": "Standard",
+    "madeIn": "USA",
+    "images": ["crew-benjamin-front.jpg"],
+    "tags": ["crewneck", "money print", "limited", "made in usa"],
+    "descriptionShort": "All-over $100 bill crewneck with subtle Money Brand seal."
+  },
+  {
+    "sku": "MB-BT-BLK-GLD-01",
+    "title": "Money Brand Leather Belt – Black / Gold Coin Buckle",
+    "category": "Belts",
+    "price": 140,
+    "color": "Black",
+    "finish": "Gold Buckle",
+    "madeIn": "USA",
+    "images": ["belt-black-gold.jpg"],
+    "tags": ["belt", "gold", "hardware", "made in usa"],
+    "descriptionShort": "Black full-grain leather belt with gold Money Brand coin buckle."
+  }
+]
